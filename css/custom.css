@@ -1,0 +1,11 @@
+<style>
+  /* FONT SIZING */
+  p.largest,  .p.largest  {font-size: 60px;}
+  p.larger,   .p.larger   {font-size: 24px;}
+  p.large,    .p.large    {font-size: 21px;}
+  p,          .p          {font-size: 18px;}
+  p.small,    .p.small    {font-size: 16px;}
+  p.smaller,  .p.smaller  {font-size: 14px;}
+  p.smallest, .p.smallest {font-size: 12px;}
+  p.micro,    .p.micro    {font-size: 11px;}
+</style>
